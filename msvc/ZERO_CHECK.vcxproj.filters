@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\op3d_active\xerces-c-3.2.2\msvc\CMakeFiles\2d7b28e34d0edb85bc0a1df4582d7284\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AD00B961-6A41-3B17-A154-698D58AF4978}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

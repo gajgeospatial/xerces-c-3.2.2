@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="C:\Development\op3d_active\xerces-c-3.2.2\src\stricmp.c">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Development\op3d_active\xerces-c-3.2.2\src\stricmp.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Development\op3d_active\xerces-c-3.2.2\src\strnicmp.c">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Development\op3d_active\xerces-c-3.2.2\src\strnicmp.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Development\op3d_active\xerces-c-3.2.2\src\towlower.c">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Development\op3d_active\xerces-c-3.2.2\src\towlower.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Development\op3d_active\xerces-c-3.2.2\src\towupper.c">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Development\op3d_active\xerces-c-3.2.2\src\towupper.h">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{12089501-E87E-3504-8748-17BD6D552E40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{280CF12A-E144-3EDA-B399-42AA6600A7EE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
